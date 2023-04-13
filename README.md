@@ -10,7 +10,7 @@ For fans of cooking unusual for everyday life dishes will certainly appeal to th
 
 ##### Live Demo link
 
-[recipes]()
+[recipes](https://mershana.github.io/odin-recipes/);
 
 ##### Install
 
