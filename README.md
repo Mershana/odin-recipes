@@ -2,17 +2,17 @@
 
 For fans of cooking unusual for everyday life dishes will certainly appeal to this site, here you can find recipes and cook to please friends and family.
 
-##### Built With
+#### Built With
 
 - Visual Studio Code
 - HTML
 - Git
 
-##### Live Demo link
+#### Live Demo link
 
-[recipes](https://mershana.github.io/odin-recipes/);
+[recipes](https://mershana.github.io/odin-recipes/)
 
-##### Install
+#### Install
 
 - open terminal
 - clone this project with the command:
@@ -23,17 +23,17 @@ $ git clone git@github.com:Mershana/odin-recipes.git
 
 Finally, run the Live Server in Visual Studio Code see the web app in your local browser.
 
-##### Usage
+#### Usage
 
 Designed for beginners who want to consolidate their knowledge of HTML.
 
 > Food tastes better when you eat it :doughnut:
 
-##### Authors
+#### Authors
 
 - GitHub: [@Meshana](https://github.com/Mershana)
 - Telegram: [fkasia](https://t.me/fkasia)
 
-##### Show your support
+#### Show your support
 
 Give a ⭐️ if you like this project!
