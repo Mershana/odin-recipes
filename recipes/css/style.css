@@ -1,0 +1,185 @@
+/* main index.html  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.title__recipes {
+  text-align: center;
+  background-color: rgba(0, 0, 255, 0.3);
+}
+
+.menu__recipes {
+  text-align: center;
+  list-style-type: none;
+}
+
+.recipes__items-link {
+  text-decoration: none;
+  font-size: 20px;
+  color: hsl(290, 60%, 70%);
+}
+
+/* recipes #1 pasta.html */
+
+.pasta__title {
+  text-align: center;
+  font-size: 44px;
+  background-color: hsla(290, 60%, 70%, 0.3);
+}
+
+.container__images {
+  text-align: center;
+}
+
+.pasta__images {
+  width: 400px;
+  height: auto;
+}
+
+.pasta__subtitle {
+  text-align: center;
+  font-size: 35px;
+  background-color: rgba(0, 0, 255, 0.3);
+}
+
+.pasta__text {
+  background-color: hsla(120, 60%, 70%, 0.3);
+  color: darkmagenta;
+}
+
+.ingredients__items {
+  background-color: rgba(255, 255, 0, 0.3);
+}
+
+.ingredients__item.item__colors {
+  color: rgba(255, 0, 0, 0.3);
+}
+
+.directions__items {
+  text-align: right;
+  background-color: rgba(255, 0, 255, 0.3);
+}
+
+.directions__item.directions__bg {
+  color: aliceblue;
+}
+
+/* spicy.html */
+
+.container__spicy {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.spicy__title {
+  text-align: center;
+  font-size: 35px;
+  background-color: rgba(0, 0, 255, 0.3);
+}
+
+.container__img {
+  text-align: right;
+}
+.spicy__images {
+  width: 500px;
+  height: 300px;
+}
+
+.spicy__subtitle {
+  text-align: center;
+  font-size: 35px;
+  background-color: rgba(0, 0, 255, 0.3);
+}
+
+.spicy__subtitle.rigth {
+  text-align: right;
+}
+
+.spicy__text {
+  text-align: right;
+}
+
+.spicy__items {
+  text-align: center;
+  list-style-type: none;
+}
+.spicy__item.spicy__colors {
+  background-color: hsl(290, 60%, 70%);
+}
+
+.spicy__item.spicy__colors-green {
+  color: hsla(120, 10%, 10%, 0.5);
+}
+
+.spicy__ingredients-items {
+  background-color: hsla(290, 60%, 70%, 0.3);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.spicy__ingredients-item {
+  background-color: hsla(120, 100%, 50%, 0.3);
+}
+
+.spicy__ingredients-item.item__colors {
+  background-color: hsla(330, 90%, 62%, 0.3);
+}
+
+/* tacos.html styles */
+
+.container__tacos {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.tacos__title {
+  text-align: center;
+  color: coral;
+}
+
+.tacos__text {
+  text-align: center;
+  color: brown;
+}
+
+.tacos__img {
+  text-align: center;
+}
+
+.tacos__img .images {
+  width: 400px;
+  height: auto;
+}
+
+.tacos__subtitle {
+  text-align: center;
+}
+
+.tacos__title-ingredients {
+  text-align: center;
+  color: rgb(8, 108, 113);
+}
+
+.tacos__items,
+.tacos__items-ingredients {
+  text-align: center;
+}
+
+.tacos__items {
+  background-color: rgb(200, 163, 184);
+}
+
+.tacos__items-ingredients {
+  background-color: cornflowerblue;
+}
+
+.tacos__items-directions {
+  color: rgb(100, 48, 5);
+}
+.tacos__item-directions {
+  font-size: 24px;
+}
