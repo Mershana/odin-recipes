@@ -6,7 +6,9 @@ For fans of cooking unusual for everyday life dishes will certainly appeal to th
 
 - Visual Studio Code
 - HTML
+- CSS
 - Git
+
 
 #### Live Demo link
 
@@ -25,7 +27,7 @@ Finally, run the Live Server in Visual Studio Code see the web app in your local
 
 #### Usage
 
-Designed for beginners who want to consolidate their knowledge of HTML.
+Designed for beginners who want to consolidate their knowledge of HTML and CSS.
 
 > Food tastes better when you eat it :doughnut:
 
